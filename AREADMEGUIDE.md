@@ -74,6 +74,7 @@ input and reaction from the player, yet the player would always know exactly wha
 
 ----
 Conclusion:
+----
 
 While rough and bare, the core point of this prototype is to get an idea across. The idea is that of a game where planification and patience would reign supreme,
 and spontaneity and impulsiveness would get the player to waste their time in vain. In times like this, where distraction is so easy to obtain, patience should be 
