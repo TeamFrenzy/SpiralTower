@@ -45,9 +45,9 @@ touching the right side of the screen.
 --View: Lets the player analyze the Spiral Tower's hologram at the center of the van. This hologram would have precise information on each of its rooms and sections.
 In the demo, the hologram can be accomodated by touching the screen and moving the finger over the screen.
 
-Dialogue Scene Module: A simple dialogue showcase.
+-Dialogue Scene Module: A simple dialogue showcase.
 
-Run Jump Module: A minigame example. These would always require precise input and reaction from the player, yet the player would always know exactly what to expect
+-Run Jump Module: A minigame example. These would always require precise input and reaction from the player, yet the player would always know exactly what to expect
 from each of them.
 
 While rough and bare, the core point of this prototype is to get an idea across. The idea is that of a game where planification and patience would reign supreme,
