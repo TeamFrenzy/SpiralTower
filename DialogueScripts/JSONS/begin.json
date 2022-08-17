@@ -1,0 +1,46 @@
+{
+  "diaList": [
+    {
+	  "name": "Tamaki",
+      "dialogue": "Bienvenido a la demo del sistema de dialogo.",
+      "conditionAmount": "1",
+      "conditionList": [
+        {
+          "condition": "begin"
+        }
+      ],
+      "textBubble": 
+      {
+            "bubbleType": "0",
+            "bubblePositionX": "-400",
+            "bubblePositionY": "30",
+            "bubbleSizeX": "200",
+            "bubbleSizeY": "100"
+      }
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "...",
+      "textBubble": 
+      {
+            "bubbleType": "0",
+            "bubblePositionX": "-400",
+            "bubblePositionY": "30",
+            "bubbleSizeX": "300",
+            "bubbleSizeY": "100"
+      }
+    },
+    {
+	  "name": "Mokyu",
+      "dialogue": "Mokyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!",
+      "textBubble": 
+      {
+            "bubbleType": "0",
+            "bubblePositionX": "400",
+            "bubblePositionY": "100",
+            "bubbleSizeX": "500",
+            "bubbleSizeY": "200"
+      }
+    }
+  ]
+}

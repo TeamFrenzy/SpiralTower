@@ -1,0 +1,190 @@
+{
+  "diaList": [
+    {
+	  "name": "Tamaki",
+      "dialogue": "Bienvenido a la demo del sistema de dialogo.",
+      "conditionAmount": "1",
+      "conditionList": [
+        {
+          "condition": "begin"
+        }
+      ]
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "[w1].[w1].[w1]."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Ya[w1] no se que decir."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Son los nervios."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "El sistema de dialogo se puede usar de varias formas. Esta simple caja negra con letras es solo una de tantas."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Burbujas de dialogo, cajas de dialogo, cinematicas- muchas posibilidades."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "Pero, y porque terminamos con una caja negra?"
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Um, porque es un prototipo, no? Es como, a modo ilustrativo."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Asi es. Un prototipo se limita a ilustrar los aspectos mas basicos del producto final. Su funcion es comunicar."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "Ojala la Torre Espiral final sea mas linda, entonces... no?"
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "De hecho, la idea es que sea mas fea. Intencionalmente mas fea."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Hmmm, la Torre Espiral... Tamaki, lore."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Eh?!"
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Ah, si! La historia de fondo! Pero,[w1] por donde empiezo?"
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Um, la Torre Espiral es... Bueno, en el futuro hay androides..."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Y... el mercado se volvio mucho mas competitivo. Las fabricas hacen mas y mas rapido, y cada vez mas rapido."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Lo que compras queda obsoleto muy rapido, y las nuevas versiones aveces salen hasta en menos de un mes."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Los productos son creados intencionalmente para quedar obsoletos rapido. Ese detalle es importante."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Si, eso, y debido a eso, eh... Debido a eso la basura se acumula mas y mas y mas y nadie sabe que hacer con ella."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Entonces crean la Arjona-AI, una inteligencia artificial creada para tratar de aprovechar toda esa basura. La usa para hacer descubrimientos cientificos que sirven para que el mercado no pierda el ritmo."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "La AI que esta en la Torre Espiral."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Si, esa. No sabemos porque, pero la Arjona-AI creo la Torre Espiral."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "Entonces la Torre Espiral esta hecha de licuadoras y celulares y heladeras y motores de auto y parlantes y consolas de videojuegos y zapatillas y almanaques de camioneros?"
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Si."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Ese lugar es un desastre."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Bueno, y la gente no trata muy bien a los androides. Ni a los robot."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Es una especie de tabu... dicen que si le pegas a la television para que ande, que tiene de malo pegarle a un robot? Es horrible."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "La empatia hacia los androides es condenada."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "En mi caso, pertenezco a una linea de robots de modelaje. Genere inseguridades, al parecer. Trataron de reciclarme."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Modificarme hubiera sido suficiente."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "Um, mis padres adoptivos dijeron que mi personalidad les aburria y me reemplazaron."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "..."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "...De cierta forma me alegro de no recordar nada de mi pasado."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "Tamaki, plot."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Plo- Ah, el argumento!"
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "La historia principal comienza cuando llego a la Torre Espiral buscando a Ui."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Ui es mi amiga humana, y me pidio que venga. No recuerdo cuando, solo tengo el recuerdo."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "Ui me pidio que venga a mi tambien. Me dijo que la Torre Espiral iba a ser mi casa."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "Hasta ahora solo trata de destruirme..."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "No es el mejor lugar para hacer campamento."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Entonces encuentro a Futaba y a Nanami en la torre y ellas deciden ayudarme a escalarla."
+    },
+    {
+	  "name": "Nanami",
+      "dialogue": "No quiero ayudarte a que la escales. No puedo evitarlo."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Si, eso, y ahora Nanami dejo de sabotearnos."
+    },
+    {
+	  "name": "Tamaki",
+      "dialogue": "Y de ahora en mas no sabemos que va a pasar."
+    },
+    {
+	  "name": "Futaba",
+      "dialogue": "Ojala la proxima caja negra tenga un gatito."
+    }
+  ]
+}
